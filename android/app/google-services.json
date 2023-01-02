@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48606031541",
+    "project_id": "flutapp-main",
+    "storage_bucket": "flutapp-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48606031541:android:0b7cd90db9f31cd01358fc",
+        "android_client_info": {
+          "package_name": "com.example.flutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48606031541-qblvd08suv3e5ssr2pjt3rs1aejuhh0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAb9L72D3uQeT2e2WmY76lji2LdqPUBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48606031541-qblvd08suv3e5ssr2pjt3rs1aejuhh0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
